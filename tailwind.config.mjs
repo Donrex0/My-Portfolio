@@ -22,6 +22,14 @@ export default {
     fontFamily: {
       primary: "var(--font-jetbrainsMono)",
     },
+    colors: {
+      primary:'#1c1c22',
+      accent: {
+        DEFAULT: "#OOff99",
+        hover: "#00e187",
+      }
+      },
+    },
     extend: {
       keyframes: {
         "accordion-down": {
