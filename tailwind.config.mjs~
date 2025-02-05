@@ -23,7 +23,6 @@ export default {
       primary: "var(--font-jetbrainsMono)",
     },
     colors: {
-      white: "#ffffff", // Add this line to define the 'white' color
       primary: "#1c1c22",
       accent: {
         DEFAULT: "#00ff99", // Corrected color value
